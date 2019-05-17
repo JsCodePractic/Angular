@@ -1,0 +1,30 @@
+body{
+    width: 1400px;
+    height: 100%;
+    margin: auto;
+}
+.Logo-menu{
+    width: 100%;
+    height: 150px;          
+}
+.Logo-img{
+    width: 130px;
+    height: 70px;
+    margin: 30px;
+    float: left;
+}
+.Menu{
+    float: right;
+    margin: 30px;
+}
+.menu-t{
+    display: inline;
+   }
+a{
+    margin: 17px;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight:bold;
+}

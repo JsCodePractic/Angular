@@ -1,0 +1,198 @@
+body{
+    width: 1400px;
+    height: 100%;
+    margin: auto;
+}
+.Logo-menu{
+    width: 100%;
+    height: 150px;          
+}
+.Logo-img{
+    width: 130px;
+    height: 70px;
+    margin: 30px;
+    float: left;
+}
+.Menu{
+    float: right;
+    margin: 30px;
+}
+.menu-t{
+    display: inline;
+   }
+a{
+    margin: 17px;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight:bold;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight:bold;
+    font-size: 70px;  
+    margin: 0;
+    padding: 0;  
+}
+.Text-Info{
+    width: 100%;
+    height: 350px;
+    left: 160px;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+.Image-company{
+    width: 100%;
+}
+.info-about-commpany{
+    width: 100%;
+    height: 450px;
+}
+.info-commpany{
+    height: 260px;
+    width: 315px;
+    display: inline-block;
+    position: relative;
+    margin: 30px;
+    left: 160px;
+}
+h2{
+    font-size: 36px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight:bold;
+}
+li{
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: normal;
+    
+}
+ul{
+    margin: 0;
+    padding: 9px;
+}
+.Commet-div{
+   background-color:   #1D1E25;
+   width: 100%;
+   height: 750px;
+}
+.Com{
+    font-size: 36px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight:bold;
+}
+.Write-comment{
+    height: 300px;
+    width: 1000px;
+    margin: auto;
+    
+}
+#Commentar{
+    margin: auto;
+    left: 450px;
+    position: relative;
+    bottom: 60px;
+}
+#Title{
+    height: 25px;
+    width: 596px;
+    background-color:  #1D1E25;
+    border: solid 0.6px #60E3A1;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #60E3A1;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    outline:none;
+    padding: 10px;
+}
+#Your-comment{
+    height: 150px;
+    width: 596px;
+    background-color:  #1D1E25;
+    border: solid 0.6px #60E3A1;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #60E3A1;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    outline:none;
+    margin: 0;
+    padding: 10px;
+    top: 10px;
+    position: relative;
+}
+.btn{
+    position: relative;
+    background-color: #60E3A1;
+    height: 50px;
+    width: 150px;
+border-radius: 5px;
+top: 10px;
+text-align: center;
+font-size: 20px;
+font-weight:normal;
+}
+p{position: relative;
+    top: 9px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Com{
+    position: relative;
+    top: 130px;
+    font-size: 55px;
+}
+hr{
+    border: none;
+    background-color: yellow;
+    height: 5px;
+    
+}
+.line{
+    width: 75px;
+}
+.line-footer{
+    position: relative;
+    margin: auto;
+    top: 50px;
+    right:  140px;
+    width: 1300px;
+    height: 5px;
+}
+.line-f{
+    background-color: #22232C;
+    height: 3px;
+    border: none;
+}
+.mail{
+    float: left;
+    position: relative;
+    top: 100px;
+    right: 150px;
+    text-align: left;
+}
+p{
+    color: aliceblue;
+}
+.other{
+    float: right;
+    top: 120px;
+    position: relative;
+
+}
+.other-text{
+    font-size: 14px;
+    color: dimgray;
+    text-align: right;
+    left: 70px;
+}
+.in-sent{
+    position: relative;
+    top: 10px;
+}

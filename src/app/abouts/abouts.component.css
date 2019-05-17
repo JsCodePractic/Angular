@@ -1,0 +1,81 @@
+body{
+    width: 1400px;
+    height: 100%;
+    margin: auto;
+}
+.Logo-menu{
+    width: 100%;
+    height: 150px;          
+}
+.Logo-img{
+    width: 130px;
+    height: 70px;
+    margin: 30px;
+    float: left;
+}
+.Menu{
+    float: right;
+    margin: 30px;
+}
+.menu-t{
+    display: inline;
+   }
+a{
+    margin: 17px;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight:bold;
+}
+.colortext{
+    float: left;
+    color: #60E3A1;
+    font-size: 15px;
+}
+.Back{
+    height: 50px;
+    width: 1000px;
+    margin: auto;
+}
+.Full-comment{
+    margin: auto;
+    height: 700px;
+    width: 1000px;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight:bold;
+    font-size: 38px;  
+    margin: 0;
+    padding: 0;
+    position: relative; 
+    
+
+}
+p{
+    font-size: 18px;
+color: gray;
+   
+}
+.btn-back{
+    border:solid 1px #60E3A1;
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    margin: auto;
+    left: 150px;
+    }
+    .in-bnt{
+        margin: auto;
+        position: relative;
+        text-align: center;
+        left: 10px;
+        top: 14px;
+    }
+    .colortext{
+        float: left;
+        color: #60E3A1;
+        font-size: 15px;
+    }
